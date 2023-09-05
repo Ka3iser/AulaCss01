@@ -1,0 +1,50 @@
+body {
+    background-color: #d8bfd8;
+    font-family: 'Roboto', sans-serif;
+}
+
+footer {
+    background-color: violet;
+    height: 250px;
+    
+}
+
+.HL {
+    color: blue;
+}
+
+.Cele {
+    color: rgb(248, 98, 190);
+}
+
+.Hades {
+    color: red;
+}
+
+.CC {
+    color: blueviolet;
+}
+
+.Mine {
+    color: green;
+}
+
+.amarelo {
+    color: yellow;
+}
+
+.laranja {
+    color: orange;
+}
+
+.vermelho {
+    color: red;
+}
+
+.roxo {
+    color: purple;
+}
+
+.azul {
+    color: blue;
+}

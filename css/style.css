@@ -1,0 +1,21 @@
+body {
+    background-color: skyblue;
+    color: green;
+}
+
+h1 {
+    color: purple;
+}
+
+.h21 {
+    color: black;
+}
+
+.h22 {
+    color: rgba(175, 32, 211, 0.726);
+}
+
+p {
+    color: black;
+}
+
