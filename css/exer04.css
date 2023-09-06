@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body {
+    background-color: rgb(241, 194, 241);
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 2px 1px 1px rgb(245, 42, 167);
+}
+
+p {
+    text-align: justify;
+    text-indent: 35px;
+    line-height: 1.5;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+    text-shadow: 2px 1px 1px #f00;
+}
